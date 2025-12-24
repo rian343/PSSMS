@@ -1,0 +1,2 @@
+As a Pharmacy Owner, I want to verify user so that only valid and authorized users can access the system.
+
